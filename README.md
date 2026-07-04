@@ -40,7 +40,7 @@
 
 ## 📫 Связаться со мной
 
-- 📧 Email: [FLYXSE777@gmail.com](FLYXSE777@gmail.com)  
+- 📧 Mail: [FLYXSE@TUTA.IO](FLYXSE@TUTA.IO)  
 - 💬 Telegram: [@kwiken_lab](https://t.me/kwiken_lab)
 - 👨‍💻 Kwork: [user/flyxse](https://kwork.ru/user/flyxse)
 
