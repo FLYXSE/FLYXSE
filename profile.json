@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "FLYXSE",
-  "seed": "#AB845F",
+  "seed": "#826243",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -134,7 +134,7 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "FLYXSE.github.io",
+        "url": "https://flyxse.github.io/",
         "style": "filled"
       },
       {
