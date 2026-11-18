@@ -1,53 +1,25 @@
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m FLYXSE"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="33.504%" alt=""></picture><a href="https://t.me/FLYXSE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="FLYXSE@tuta.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="14.866%" alt="gmail"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="33.504%" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
+
+<a href="https://github.com/FLYXSE/KW-Gram"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-kw-gram-dark.svg"><img src="assets/project-kw-gram-light.svg" width="49%" alt="KW-Gram"></picture></a>&nbsp;<a href="https://github.com/FLYXSE/Larp-Apple-Wallet"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-larp-apple-wallet-dark.svg"><img src="assets/project-larp-apple-wallet-light.svg" width="49%" alt="Larp-Apple-Wallet"></picture></a>
+
+<a href="https://github.com/FLYXSE/FLYXSE.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-flyxse-github-io-dark.svg"><img src="assets/project-flyxse-github-io-light.svg" width="49%" alt="FLYXSE.github.io"></picture></a>&nbsp;<a href="https://github.com/FLYXSE/FLYXSE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-flyxse-dark.svg"><img src="assets/project-flyxse-light.svg" width="49%" alt="FLYXSE"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="FLYXSE.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/FLYXSE?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=FLYXSE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
-<h1 align="center">𝙵 𝙻 𝚈 𝚇 𝚂 𝙴 // 𝙰 𝙻 𝙴 𝙺 𝚂 𝙴 𝙸 👋</h1>
-
-<p align="center">
-  Python Backend-разработчик / Telegram Bot Developer
-</p>
-<p align="center">
-  <a href="https://github.com/FLYXSE">🌐 github.com/FLYXSE</a>
-</p>
-
----
-
-## 🧰 Мои технологии
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
-[![Pyrogram](https://img.shields.io/badge/Pyrogram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.pyrogram.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://sqlite.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
----
-
-## 🧠 Моя Активность
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FLYXSE&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLYXSE&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=FLYXSE&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <sub>📈 Активность отслеживается через <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> и <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a></sub>
-</p>
-
-
----
-
-## 📫 Связаться со мной
-
-- 📧 Mail: [FLYXSE@TUTA.IO](FLYXSE@TUTA.IO)  
-- 💬 Telegram: [@kwiken_lab](https://t.me/kwiken_lab)
-- 👨‍💻 Kwork: [user/flyxse](https://kwork.ru/user/flyxse)
-
----
-
-<p align="center">
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&background=FF8E1B00&width=435&lines=%D0%90+%D1%86%D0%B5%D0%BB%D0%B8+%D0%B2%D1%81%D1%91+%D1%82%D0%B5+%D0%B6%D0%B5%3A+%D0%B1%D1%8B%D1%82%D1%8C+%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%BC+%D0%BD%D0%B0+%D0%B1%D0%B5%D0%BB%D0%BE%D0%BC" alt="Typing SVG" /></a>
-</p>
