@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "FLYXSE",
-  "seed": "#AB845F",
+  "seed": "#AA845F",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -129,7 +129,7 @@
       },
       {
         "icon": "brand:gmail",
-        "url": "FLYXSE@tuta.io"
+        "url": "mailto:FLYXSE@tuta.io"
       }
     ],
     "variant": "chip",
