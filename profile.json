@@ -9,15 +9,17 @@
   "order": [
     "hero",
     "socials",
+    "buttons",
     "about",
     "stack",
-    "projects",
+    "wave",
     "stats",
     "streak",
-    "wave",
-    "buttons"
+    "projects"
   ],
-  "hidden": [],
+  "hidden": [
+    "projects"
+  ],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "FLYXSE",
@@ -141,6 +143,7 @@
         "url": "https://github.com/FLYXSE?tab=repositories",
         "style": "tonal"
       }
-    ]
+    ],
+    "card": true
   }
 }
