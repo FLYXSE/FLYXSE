@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/FLYXSE/KW-Gram"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-kw-gram-dark.svg"><img src="assets/project-kw-gram-light.svg" width="49%" alt="KW-Gram"></picture></a>&nbsp;<a href="https://github.com/FLYXSE/Larp-Apple-Wallet"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-larp-apple-wallet-dark.svg"><img src="assets/project-larp-apple-wallet-light.svg" width="49%" alt="Larp-Apple-Wallet"></picture></a>
-
-<a href="https://github.com/FLYXSE/FLYXSE.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-flyxse-github-io-dark.svg"><img src="assets/project-flyxse-github-io-light.svg" width="49%" alt="FLYXSE.github.io"></picture></a>&nbsp;<a href="https://github.com/FLYXSE/FLYXSE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-flyxse-dark.svg"><img src="assets/project-flyxse-light.svg" width="49%" alt="FLYXSE"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
