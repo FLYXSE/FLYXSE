@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "FLYXSE",
-  "seed": "#826243",
+  "seed": "#AB845F",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -67,6 +67,10 @@
           {
             "icon": "brand:telegram",
             "label": "kurigram"
+          },
+          {
+            "icon": "brand:swift",
+            "label": "Swift"
           }
         ]
       },
@@ -84,6 +88,10 @@
           {
             "icon": "brand:githubactions",
             "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:zdotai",
+            "label": "ZCode"
           }
         ]
       }
