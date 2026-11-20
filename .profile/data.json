@@ -1,7 +1,7 @@
 {
- "key": "d722ab7c",
+ "key": "fedc560e",
  "stars": 0,
- "contributions": 218,
+ "contributions": 221,
  "repos": 9,
  "followers": 3,
  "languages": [
@@ -127,11 +127,15 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 8,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
